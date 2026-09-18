@@ -87,10 +87,8 @@ Handles saving and loading planner data using Java File I/O operations.
 
 ### Step 1: Clone the Repository
 
-```bash
-```bash
 git clone https://github.com/adhishreesingh02/StudentPlanner.git
-```
+
 
 ### Step 2: Open the Project
 
@@ -100,15 +98,13 @@ Open the `StudentPlanner` folder in Visual Studio Code.
 
 Open the terminal in the project folder and run:
 
-```bash
 javac -d out src\studentplanner\*.java
-```
+
 
 ### Step 4: Run the Program
 
-```bash
 java -cp out studentplanner.Main
-```
+
 
 ## How to Use
 
@@ -120,7 +116,6 @@ When the application starts, the user enters:
 
 The main menu then provides the following options:
 
-```text
 1. View Student Profile
 2. Add Subject
 3. View Subjects
@@ -134,7 +129,6 @@ The main menu then provides the following options:
 11. Save Planner
 12. Load Planner
 13. Exit
-```
 
 The user can select an option by entering its corresponding number.
 
@@ -144,9 +138,7 @@ The application uses a simple text file for storing planner information.
 
 The saved data is stored in:
 
-```text
 data/planner.txt
-```
 
 The `FileManager.java` class is responsible for saving and loading the planner data.
 
