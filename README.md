@@ -28,8 +28,8 @@ The application also provides file-based storage, allowing planner data to be sa
 * Java Collections Framework
 * Java File I/O
 * Command Line Interface
+* Exception Handling
 * Visual Studio Code
-* Git
 * GitHub
 
 ## Project Structure
@@ -88,10 +88,9 @@ Handles saving and loading planner data using Java File I/O operations.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/StudentPlanner.git
+```bash
+git clone https://github.com/adhishreesingh02/StudentPlanner.git
 ```
-
-Replace `your-username` with your GitHub username.
 
 ### Step 2: Open the Project
 
