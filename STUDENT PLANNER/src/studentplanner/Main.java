@@ -19,7 +19,7 @@ public class Main {
         int choice;
 
         do {
-            System.out.println("\n========== MENU ==========");
+            System.out.println("\nMENU");
             System.out.println("1. View Student Profile");
             System.out.println("2. Add Subject");
             System.out.println("3. View Subjects");
