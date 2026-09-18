@@ -4,7 +4,7 @@
 
 Students have to manage different academic activities such as subjects, assignments, deadlines, and daily tasks. Keeping track of all these things manually can sometimes lead to missed tasks or unfinished work.
 
-Student Planner is a simple Java-based command-line application that helps students keep their academic work and daily tasks organized in one place. The application allows users to add subjects, assignments, and tasks, set task priorities, mark work as completed, and check their basic productivity.
+Student Planner is a simple Java-based command-line application that helps students keep their academic work and daily tasks organized in one place. The application allows users to add subjects, assignments, and tasks, set task priorities, mark work as completed, view a productivity summary, and save or load planner data.
 
 ## Scope
 
